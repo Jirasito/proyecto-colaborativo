@@ -1,3 +1,4 @@
 Curso: Programación de Sistemas de Información
 Institución: Iser
 Estado: Inicial
+Colaborador:Juan Gallego
